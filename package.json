@@ -1,0 +1,7 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:denzelwas/auto-changelog.git",
+  "license": "MIT"
+}
